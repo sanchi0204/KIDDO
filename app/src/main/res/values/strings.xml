@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kiddo</string>
+    <string name="get_started">Get Started</string>
+    <string name="tagline">A Partnership In Discovery</string>
+    <string name="alphabets">Alphabets</string>
+    <string name="numbers">Numbers</string>
+    <string name="shapes">Shapes</string>
+    <string name="body_parts">Body Parts</string>
+    <string name="hello_kiddo">Hello Kiddo!</string>
+    <string name="welcome">Welcome</string>
+    <string name="text_intro">Hello Kiddo! I will guide you and help you learn .</string>
+    <string name="lets_go">Let\'s Go</string>
+    <string name="take_home">Take me Home</string>
+</resources>
